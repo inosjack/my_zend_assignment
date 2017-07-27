@@ -9,6 +9,8 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.5",
-        "zendframework/zendframework": "~2.5"
+        "zendframework/zendframework": "~2.5",
+        "slm/queue": "^1.0",
+        "slm/queue-beanstalkd": "0.4.*"
     }
 }
